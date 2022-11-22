@@ -13,7 +13,6 @@
     "axios": "^1.1.3",
     "express": "^4.18.2",
     "fs": "^0.0.1-security",
-    "hmfull": "^2.4.1",
-    "puppeteer": "^19.2.2"
+    "hmfull": "^2.4.1"
   }
 }
